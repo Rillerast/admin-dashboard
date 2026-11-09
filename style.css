@@ -70,3 +70,7 @@ main {
     flex-direction: column;
     gap: 10px;
 }
+
+.account-search-bar svg {
+    width: 50px;
+}
